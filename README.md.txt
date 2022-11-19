@@ -7,3 +7,5 @@ Some text at line 6th was added.
 Some test text at line 7th has been added
 Text was added and updated at line 8th
 This is the END!
+
+Added line.
